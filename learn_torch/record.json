@@ -1,0 +1,45 @@
+{
+    "Results": [
+        {
+            "model": "Inception_transfer",
+            "accuracy": 86.45,
+            "test loss": 0.006269833056628704
+        },
+        {
+            "model": "Alexnet",
+            "epochs": 1,
+            "accuracy": 81.31,
+            "test loss": 0.008124664059281349
+        },
+        {
+            "model": "Resnet",
+            "epochs": 1,
+            "accuracy": 85.08,
+            "test loss": 0.007297508957982063
+        },
+        {
+            "model": "Inception3",
+            "epochs": 1,
+            "accuracy": 62.13999999999999,
+            "test loss": 0.019105441415309905
+        },
+        {
+            "model": "Inception3",
+            "epochs": 1,
+            "accuracy": 63.660000000000004,
+            "test loss": 0.01985873464345932
+        },
+        {
+            "model": "Alexnet",
+            "epochs": 1,
+            "accuracy": 80.78999999999999,
+            "test loss": 0.008117810687422752
+        },
+        {
+            "model": "Simple",
+            "epochs": 1,
+            "accuracy": 61.92999999999999,
+            "test loss": 0.018927288901805877
+        }
+    ]
+}
